@@ -53,3 +53,16 @@ sudo passwd username--> to reset password
 sudo useradd username to create user
 
 sudoers list -->/etc/sudoers
+
+
+scp -r file1.txt root@ucernwikidev01.northamerica.cerner.net:/home/
+
+
+crontab -e
+rsync
+apt-get install
+sed 's/Unix/Linux/' file1.txt
+
+source
+/etc/environment--- to add vaeiable
+
